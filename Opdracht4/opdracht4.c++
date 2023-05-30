@@ -14,10 +14,15 @@ void setup() {
 
 void loop() {
   pod = analogRead(A0);
-  leds = map(pod, 0, 1023, 0, 255);
+  leds = map(pod, 0, 1023, 0, 7);
   
  for (int i =0; i <7;i++)
   {
-	analogWrite(led[i], leds);
+   if(leds > i){
+     digitalWrite(led[i], HIGH);
+   }
+   else{
+     digitalWrite(led[i], LOW);
+   }
   }
 }
