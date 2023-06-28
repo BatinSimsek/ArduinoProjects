@@ -1,19 +1,19 @@
 # ArduinoProjects
 
 Opdracht 1:
-https://youtu.be/fBpwtCbymBc 
+https://www.youtube.com/shorts/4VogsSOaUHo
 
 Opdracht 2:
-https://youtu.be/64t_-6YqSas
+https://youtube.com/shorts/f9lmCJUItfs
 
 Opdracht 3:
-https://youtube.com/shorts/raI_Ck6NZhg
+https://youtube.com/shorts/fDzJ1gJPdZo
 
 Opdracht 4:
-https://youtube.com/shorts/BGp9WxZGua4
+https://youtube.com/shorts/5PLD8WBY0G8
 
 Opdracht 5:
-https://youtube.com/shorts/S2RccesEJVY
+https://youtube.com/shorts/jCrDD2vsIkc
 
 Opdracht 6:
-https://www.youtube.com/shorts/o3txi8Fm0eY
+https://youtube.com/shorts/zS7gbx8K9oE
